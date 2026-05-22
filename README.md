@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<div><img src"https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFlYzRtcGRvNndrYjE0aHNhZzR5dWNjMm5zcGFueTVkMHY4Y2lxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IZY2SE2JmPgFG/giphy.gif"></div>
+<div><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzFlYzRtcGRvNndrYjE0aHNhZzR5dWNjMm5zcGFueTVkMHY4Y2lxeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/IZY2SE2JmPgFG/giphy.gif"></div>
   
 <!--
 **Sousa-Matheus/Sousa-Matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
