@@ -1,4 +1,4 @@
-<div><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*S_z-fU_sRXx9HgQvz1lSXQ.gif", width="500"></div>
+<div><img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*S_z-fU_sRXx9HgQvz1lSXQ.gif", width="400"></div>
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1117cf&width=600&lines=Welcome+to+my+profile!;Hello%2C+I%27m+Matheus+Sousa.;Data+Analyst.;Future+Data+Engineer.)
 
