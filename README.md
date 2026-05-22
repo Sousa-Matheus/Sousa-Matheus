@@ -2,7 +2,8 @@
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXk5ZTRkamp0dG5vcHc5czRzejViM2ZjcjVlOHVodWJ4MzhiNXViZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gCPvobhbCxitDmuBkM/giphy.gif" width="300"/>
 </div>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF7F&width=600&lines=Welcome+to+my+profile!;Hello%2C+I%27m+Matheus Sousa;Data+Specialist.;Future+Date+Engineer.)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00FF7F&width=600&lines=Welcome+to+my+profile!;Hello%2C+I%27m+Leonardo+Boldieri.;IT+Technical+Support+Analyst.;DevOps+Student.)
+
 
 👨‍💻 About me 
 - I currently work in Data Analysis.
