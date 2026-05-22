@@ -10,22 +10,26 @@
 - I’m a Data Engineer Student.
 - Graduated in Data Science.
 
-## 🚀 Data Analysis Tools And Concepts
+## 🚀 Data Engineering, Analytics & MLOps
 
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Vagrant](https://img.shields.io/badge/-Vagrant-1868F2?style=flat-square&logo=vagrant&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-844FBA?style=flat-square&logo=terraform&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![PySpark](https://img.shields.io/badge/-PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Scikit--Learn](https://img.shields.io/badge/-Scikit_Learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/-Machine_Learning-102230?style=flat-square&logo=tensorflow&logoColor=white)
+![Databricks](https://img.shields.io/badge/-Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/-Apache_Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Azure Data Lake](https://img.shields.io/badge/-Azure_Data_Lake-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-222222?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![SonarQube](https://img.shields.io/badge/-SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Cloud](https://img.shields.io/badge/-Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
-![Virtual Machines](https://img.shields.io/badge/-Virtual_Machines-183A61?style=flat-square&logo=vmware&logoColor=white)profile.
-- ⚡ Fun fact: ...
--->
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Power BI](https://img.shields.io/badge/-Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![MLflow](https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
+![ETL](https://img.shields.io/badge/-ETL-0A66C2?style=flat-square&logo=apacheairflow&logoColor=white)
+![Data Warehouse](https://img.shields.io/badge/-Data_Warehouse-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Data Lake](https://img.shields.io/badge/-Data_Lake-005571?style=flat-square&logo=databricks&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
